@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(255, 84, 78);
+}
+
+.container{
+
+}
+
+.box1 h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+.box1 h2{
+    font-size: 30px;
+    text-align: center;
+}
+
+.img-Mathew{
+    height: 350px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    text-align: center;
+}
